@@ -10,7 +10,7 @@ import pack from './index.js';
 
 
 const server = new Server(
-  { name: '@pipeworx/mcp-indonesia-law', version: '0.1.1' },
+  { name: '@pipeworx/mcp-indonesia-law', version: '0.1.2' },
   { capabilities: { tools: {} } },
 );
 

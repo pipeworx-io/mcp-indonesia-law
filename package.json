@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-indonesia-law",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Indonesian law — national statutes and regulations, and Constitutional Court (Mahkamah Konstitusi) judicial-review outcomes, from two official government legal-documentation portals (JDIH).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-7363c5e460dee77bc3d83681490e5bc79aac3eb31876cf8922096355b208ec6a",
-    "sourceCommit": "a03f96ed672b8c149593c64ecbf30280cabf084c"
+    "sourceHash": "v1-eb9214917831c6ec8a0fcab0d8b130051078b15e4e9e00315d2e1305f35e16f3",
+    "sourceCommit": "24e32b525f9c0b2fd7d94b519b08abb108cc11cd"
   }
 }
